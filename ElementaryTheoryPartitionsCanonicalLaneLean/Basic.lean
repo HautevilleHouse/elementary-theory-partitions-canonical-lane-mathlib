@@ -1,0 +1,2 @@
+import ElementaryTheoryPartitionsCanonicalLaneLean.GateLemmas
+import ElementaryTheoryPartitionsCanonicalLaneLean.FinalTheorem
